@@ -1,2 +1,2 @@
 # Apocalypse_Project
-This is open source game project. It required unity and blende.
+This is open source game project. Being made in unity and blender.
